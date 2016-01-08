@@ -1,0 +1,14 @@
+D:\Work\MyProjects\BrainAnalizer\BrainAnalizer\bin\Debug\BrainAnalizer.exe.config
+D:\Work\MyProjects\BrainAnalizer\BrainAnalizer\bin\Debug\BrainAnalizer.exe
+D:\Work\MyProjects\BrainAnalizer\BrainAnalizer\bin\Debug\BrainAnalizer.pdb
+D:\Work\MyProjects\BrainAnalizer\BrainAnalizer\bin\Debug\ThinkGear.dll
+D:\Work\MyProjects\BrainAnalizer\BrainAnalizer\bin\Debug\NLog.dll
+D:\Work\MyProjects\BrainAnalizer\BrainAnalizer\obj\Debug\BrainAnalizer.csprojResolveAssemblyReference.cache
+D:\Work\MyProjects\BrainAnalizer\BrainAnalizer\obj\Debug\BrainAnalizer.Form1.resources
+D:\Work\MyProjects\BrainAnalizer\BrainAnalizer\obj\Debug\BrainAnalizer.Properties.Resources.resources
+D:\Work\MyProjects\BrainAnalizer\BrainAnalizer\obj\Debug\BrainAnalizer.csproj.GenerateResource.Cache
+D:\Work\MyProjects\BrainAnalizer\BrainAnalizer\obj\Debug\BrainAnalizer.exe
+D:\Work\MyProjects\BrainAnalizer\BrainAnalizer\obj\Debug\BrainAnalizer.pdb
+D:\Work\MyProjects\BrainAnalizer\BrainAnalizer\bin\Debug\Jayrock.dll
+D:\Work\MyProjects\BrainAnalizer\BrainAnalizer\bin\Debug\Jayrock.Json.dll
+D:\Work\MyProjects\BrainAnalizer\BrainAnalizer\bin\Debug\ZedGraph.dll
